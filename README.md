@@ -1,10 +1,10 @@
 # adoptsmart_admin_en
 
-A new Flutter project.
+PROJECT UNTUK ADMIN PAWDOPTED
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Buat folder pada location yang anda mau dengan judul adoptsmart_admin_en setelah itu copy semua codenya
 
 A few resources to get you started if this is your first Flutter project:
 
