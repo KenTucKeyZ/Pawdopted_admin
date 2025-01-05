@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "884060753248",
+    "project_id": "adoptsmarten",
+    "storage_bucket": "adoptsmarten.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884060753248:android:7a8ea8a60a6ea7b4cbe205",
+        "android_client_info": {
+          "package_name": "com.example.adoptsmart_admin_en"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884060753248-jsc8jdah172mkcc95ll5sh0grrr1lev4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARe4tYY6QGfmfMw1VwBiDbApVhElrA9GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884060753248-jsc8jdah172mkcc95ll5sh0grrr1lev4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884060753248:android:ad0ad33aac189384cbe205",
+        "android_client_info": {
+          "package_name": "com.example.petsmart_user_en"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884060753248-ubvark5lalhvkeb3coeqr4lnv9363bv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petsmart_user_en",
+            "certificate_hash": "555a2c11567c3edd8932ea04b3a328d50b4f63e3"
+          }
+        },
+        {
+          "client_id": "884060753248-jsc8jdah172mkcc95ll5sh0grrr1lev4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARe4tYY6QGfmfMw1VwBiDbApVhElrA9GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884060753248-jsc8jdah172mkcc95ll5sh0grrr1lev4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
